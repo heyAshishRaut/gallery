@@ -5,7 +5,7 @@ A modern, responsive image gallery built with HTML, CSS, and JavaScript. The gal
 
 ## Preview  
 
-![Uploading Screenshot (1656).png…]()
+![image](https://github.com/user-attachments/assets/ebd70e15-1be0-4b3c-af6d-5641e0146c1e)
 
 
 ## Tech Stack  
